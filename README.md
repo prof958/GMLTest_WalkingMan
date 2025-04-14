@@ -1,6 +1,8 @@
-# GMLTest_WalkingMan
-My First Test Drive on GML (GameMakerLanguage).
+# Walking Man – GameMaker Language Test
 
-To run you need  GAMEMAKER STUDIO 2 . Its a game engine and has its own language based by C. 
+My first experiment with GameMaker Language (GML), showcasing a basic walking animation.
 
-This project has a Pixelart guy who can walk around. You can see how to flip Sprites and make them move easily and clean.
+## Features
+- Character animation
+- Sprite movement logic
+- GameMaker IDE compatible
